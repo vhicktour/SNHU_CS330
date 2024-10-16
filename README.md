@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a 3D scene rendering application developed in C++ using OpenGL. It demonstrates the rendering of various 3D shapes, texture mapping, transformations, and basic lighting to create an immersive visual scene. The focus is on applying textures to 3D objects using relative paths, ensuring portability across different systems.
+This project is a 3D scene rendering application developed in C++ using OpenGL. It demonstrates the rendering of various 3D shapes, texture mapping, transformations, and lighting to create an immersive visual scene. The focus is on applying textures to 3D objects using relative paths, ensuring portability across different systems.
 
 ## Key Features
 
@@ -31,12 +31,7 @@ This project is a 3D scene rendering application developed in C++ using OpenGL. 
 ProjectTitle/
 ├── bin/                  // Contains the executable
 ├── textures/             // Contains all texture files
-│   ├── brick.jpg
-│   ├── wood-for-wood.jpg
-│   ├── lawn_circle.jpg
-│   ├── aluminum-foil-triangle.jpg
-│   ├── granite-cube.jpg
-│   └── gold-cylinder.jpg
+│   
 ├── src/                  // Contains source code files
 │   ├── SceneManager.cpp
 │   ├── SceneManager.h
@@ -82,7 +77,7 @@ ProjectTitle/
     - Update your build configuration to include paths to these libraries.
 
 
-#Reflection
+# Reflection
 
 1. How do I approach designing software?
 
