@@ -80,21 +80,20 @@ ProjectTitle/
 # Reflection
 
 1. How do I approach designing software?
-
-	•	New design skills: This project has sharpened my skills in planning and implementing texture mapping and scene management within 3D rendering environments. Learning to handle transformations and object hierarchies was also a valuable addition to my skillset.
-	•	Design process: I followed an iterative design process, where I first outlined the key elements of the 3D scene, built the basic shapes, and progressively added textures and lighting.
-	•	Future applications: My design approach can be applied in future projects involving complex environments, as breaking the project into smaller, manageable components ensures that I maintain control and focus on one aspect at a time.
+-	New design skills: This project has sharpened my skills in planning and implementing texture mapping and scene management within 3D rendering environments. Learning to handle transformations and object hierarchies was also a valuable addition to my skillset.
+-	Design process: I followed an iterative design process, where I first outlined the key elements of the 3D scene, built the basic shapes, and progressively added textures and lighting.
+-	Future applications: My design approach can be applied in future projects involving complex environments, as breaking the project into smaller, manageable components ensures that I maintain control and focus on one aspect at a time.
 
 2. How do I approach developing programs?
 
-	•	New development strategies: While developing the 3D scene, I focused on modular code design, ensuring each feature (e.g., shapes, lighting, textures) was isolated into separate modules, making the code easier to debug and maintain.
-	•	Iteration: Iteration played a significant role in my development process. For example, I frequently adjusted object transformations and lighting parameters to improve visual realism, gradually refining the scene’s appearance.
-	•	Evolution of development approach: Throughout the milestones, my coding practices improved in terms of efficiency and clarity. By the project’s completion, I had adopted a more systematic approach to testing each component before integrating it into the larger scene.
+-	New development strategies: While developing the 3D scene, I focused on modular code design, ensuring each feature (e.g., shapes, lighting, textures) was isolated into separate modules, making the code easier to debug and maintain.
+-	Iteration: Iteration played a significant role in my development process. For example, I frequently adjusted object transformations and lighting parameters to improve visual realism, gradually refining the scene’s appearance.
+-	Evolution of development approach: Throughout the milestones, my coding practices improved in terms of efficiency and clarity. By the project’s completion, I had adopted a more systematic approach to testing each component before integrating it into the larger scene.
 
 3. How can computer science help me in reaching my goals?
 
-	•	Educational pathway: Computational graphics and visualizations have expanded my understanding of 3D environments, which is vital for fields like game development and simulations. These skills will be essential as I continue my education and delve deeper into advanced graphics programming.
-	•	Professional pathway: The ability to create visual representations through computational graphics adds a valuable tool to my skillset as a software engineer. These skills will be critical in industries that require visualization, simulation, or immersive interfaces, such as VR, AR, or even architectural visualization.
+-	Educational pathway: Computational graphics and visualizations have expanded my understanding of 3D environments, which is vital for fields like game development and simulations. These skills will be essential as I continue my education and delve deeper into advanced graphics programming.
+-	Professional pathway: The ability to create visual representations through computational graphics adds a valuable tool to my skillset as a software engineer. These skills will be critical in industries that require visualization, simulation, or immersive interfaces, such as VR, AR, or even architectural visualization.
 
 Dependencies
 
